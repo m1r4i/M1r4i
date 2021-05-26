@@ -1,8 +1,8 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=m1r4i)](https://github.com/m1r4i/github-readme-stats)  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=m1r4i)](https://github.com/m1r4i/)  
   
 A Developer of TeamKarbon and more...  
-Twitter: https://twitter.com/_M1r4  
+Twitter: https://twitter.com/mlr4i  
   
-Contact: info@miraidev.tech  
+Contact: development@mirai.com 
 Please feel free to contact us.  
   
