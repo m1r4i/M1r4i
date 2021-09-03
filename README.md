@@ -13,3 +13,5 @@ KarbonPlay - https://kbn.gg
 Contact: i-am@mirai.com 
 Please feel free to contact us.  
   
+Resume: https://www.resume.id/m1r
+  
