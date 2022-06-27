@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=m1r4i)](https://github.com/m1r4i/)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m1r4i&theme=default)
   
 A Developer of TeamKarbon and more...  
 Website: https://m1r4i.com  
