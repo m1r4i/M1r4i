@@ -1,12 +1,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m1r4i&theme=default)
   
-A Developer of TeamKarbon and more...  
-Website: https://m1r4i.com  
+Working on CYR MUSIC LLC.
   
 > Works  
 
-KoiMilo - https://koimilo.com  
-KarbonPlay - https://kbn.gg
+KoiMilo - https://koimilo.com (Available until July 2024)
+KarbonPlay - https://kbn.gg (Unavailable)
   
   
   
