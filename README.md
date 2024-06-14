@@ -1,6 +1,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m1r4i&theme=default)
   
-Working on CYR MUSIC LLC.
   
 > Works  
 
